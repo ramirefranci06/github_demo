@@ -8,7 +8,12 @@ public class GithubdemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GithubdemoApplication.class, args);
-		System.out.println("hello worldd");
+		System.out.println("hello world new");
+		
+		
+		
+		
+		Shape shape = new Shape();
 	}
 
 }
